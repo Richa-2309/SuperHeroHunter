@@ -14,6 +14,7 @@ A simple **SuperHero Hunter** web project created to practice and strengthen my 
 
 * HTML5
 * CSS3
+* javascript
 
 ## 🎯 Purpose
 
@@ -39,3 +40,4 @@ SuperHeroHunter/
 ## 📌 Status
 
 🚧 Currently practicing and improving the project with HTML and CSS.
+ Currently practicing and improving the project with javascript

@@ -27,14 +27,9 @@ This project is created for practicing:
 * Cards and navigation bars
 * Styling and positioning elements
 
-## 📂 Project Structure
 
-```text
-SuperHeroHunter/
-│
-├── index.html
-├── style.css
-└── images/
+
+
 ```
 
 ## 📌 Status

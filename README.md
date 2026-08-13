@@ -28,6 +28,18 @@ This project is created for practicing:
 * Styling and positioning elements
 
 
+## 🎯 Purpose
+
+This project is created for practicing:
+
+* HTML structure and semantic tags
+* CSS layouts
+* Flexbox
+* Responsive design
+* Cards and navigation bars
+* Styling and positioning elements
+
+
 
 
 ```
